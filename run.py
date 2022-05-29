@@ -1,9 +1,9 @@
 # run.py
 
-import bot
+import game
 
 def main():
-    bot.temp()
+    game.game()
 
 if __name__ == "__main__":
     main()
